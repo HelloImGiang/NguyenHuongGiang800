@@ -13,4 +13,6 @@ using NguyenHuongGiang800.Models;
         }
 
         public DbSet<NguyenHuongGiang800.Models.CompanyNHG800> CompanyNHG800 { get; set; } = default!;
+
+        public DbSet<NguyenHuongGiang800.Models.NHG0800> NHG0800 { get; set; } = default!;
     }

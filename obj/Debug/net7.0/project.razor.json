@@ -16560,8 +16560,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Giang\\NguyenHuongGiang800\\Views\\NHG0800\\Delete.cshtml",
+      "TargetPath": "Views\\NHG0800\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Giang\\NguyenHuongGiang800\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Giang\\NguyenHuongGiang800\\Views\\NHG0800\\Index.cshtml",
+      "TargetPath": "Views\\NHG0800\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16590,6 +16600,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Giang\\NguyenHuongGiang800\\Views\\NHG0800\\Create.cshtml",
+      "TargetPath": "Views\\NHG0800\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Giang\\NguyenHuongGiang800\\Views\\CompanyNHG800\\Index.cshtml",
       "TargetPath": "Views\\CompanyNHG800\\Index.cshtml",
       "FileKind": "mvc"
@@ -16612,6 +16627,16 @@
     {
       "FilePath": "c:\\Giang\\NguyenHuongGiang800\\Views\\CompanyNHG800\\Details.cshtml",
       "TargetPath": "Views\\CompanyNHG800\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Giang\\NguyenHuongGiang800\\Views\\NHG0800\\Details.cshtml",
+      "TargetPath": "Views\\NHG0800\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Giang\\NguyenHuongGiang800\\Views\\NHG0800\\Edit.cshtml",
+      "TargetPath": "Views\\NHG0800\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
