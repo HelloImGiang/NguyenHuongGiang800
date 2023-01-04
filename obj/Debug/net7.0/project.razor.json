@@ -16635,6 +16635,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Giang\\NguyenHuongGiang800\\Views\\StringProcessNHG0800\\InHoa.cshtml",
+      "TargetPath": "Views\\StringProcessNHG0800\\InHoa.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Giang\\NguyenHuongGiang800\\Views\\NHG0800\\Edit.cshtml",
       "TargetPath": "Views\\NHG0800\\Edit.cshtml",
       "FileKind": "mvc"
